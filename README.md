@@ -38,7 +38,8 @@ Git clone this project and directly run from terminal
 
 ## Usage
 
-- Configure chain and mySQL configurations in programs and run by navigating to main files in relevant sub module folders 
+- Configure chain and mySQL configurations in programs and run by navigating to main files in relevant sub module folders
+  
 | Module                   | Main python file           | Configuration  file |
 |------------------------------- |----------------------|------------------|
 | Smart Contract Generator (SCG) | smart_contract_baker |schema_extract    |            
