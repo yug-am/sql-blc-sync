@@ -1,0 +1,8 @@
+await instance.deletePlotRecord('10')
+
+await instance.deleteKhatauniRecord('110' )
+
+await instance.deletePlotRecord('3')
+
+	
+

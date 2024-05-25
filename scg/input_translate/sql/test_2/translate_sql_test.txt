@@ -1,0 +1,11 @@
+UPDATE Faculty SET Facname = 'Dr. Vinod Pathari' WHERE FacId = 1;
+
+UPDATE Faculty SET Aadhar = 210 WHERE FacId = 1;
+
+UPDATE Faculty SET EId = 350 WHERE FacId = 1;
+
+UPDATE Faculty SET Facid = 10 WHERE FacId = 1;
+
+UPDATE Faculty SET Facid = 10 WHERE FacId = 1;
+
+

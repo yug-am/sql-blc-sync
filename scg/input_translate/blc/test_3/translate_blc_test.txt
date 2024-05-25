@@ -1,0 +1,5 @@
+await instance.deleteEmployeeRecord(315)
+
+await instance.deleteFacultyRecord(1)
+
+await instance.deleteEmployeeRecord(305)

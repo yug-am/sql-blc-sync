@@ -1,0 +1,6 @@
+Table: faculty
+  FacId - int
+  FacName - varchar(255)
+  Aadhar - int
+  EId - int
+  PK - FacId

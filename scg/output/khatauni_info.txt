@@ -1,0 +1,6 @@
+Table: khatauni
+  KId - varchar(255)
+  Aadhar - varchar(255)
+  PId - varchar(255)
+  PK - KId
+  CONSTRAINT `khatauni_ibfk_1` FOREIGN KEY (`PId`) REFERENCES `plot` (`PlotId`)

@@ -1,0 +1,5 @@
+Table: faculty
+  FacId - int
+  FacName - varchar(255)
+  CSDept - tinyint(1)
+  PK - FacId

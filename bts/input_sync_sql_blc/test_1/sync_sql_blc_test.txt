@@ -1,0 +1,5 @@
+createPlotEntry('1','kl_clt_01')
+createPlotEntry('2','kl_tvc_02')
+createPlotEntry('3','dl_del_03')
+createKhatauniEntry('101','81','1')
+createKhatauniEntry('201','82','2')

@@ -1,0 +1,8 @@
+DELETE FROM Employee WHERE EmpId = 315;
+
+DELETE FROM Employee WHERE EmpId = 305;
+
+DELETE FROM Faculty WHERE FacId = 1;
+
+DELETE FROM Employee WHERE EmpId = 305;
+

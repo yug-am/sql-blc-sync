@@ -1,0 +1,11 @@
+await instance.createPlotEntry('1', 'kl_clt_01' )
+
+await instance.createPlotEntry('2','kl_tvc_02')
+
+await instance.createPlotEntry('3','dl_del_03')
+
+await instance.createKhatauniEntry('101','81','1')
+
+await instance.createKhatauniEntry('201','82','2')
+	
+

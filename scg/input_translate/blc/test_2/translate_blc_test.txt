@@ -1,0 +1,7 @@
+await instance.updateFacultyEid(1, 315)
+
+await instance.updateFacultyFacid(1, 10)
+
+await instance.updateFacultyFacid(10, 100)
+
+

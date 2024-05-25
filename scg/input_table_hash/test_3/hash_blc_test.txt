@@ -1,0 +1,12 @@
+await instance.updateKhatauniKid('101','401')
+
+await instance.updateKhatauniAadhar('401','481')
+
+await instance.updateKhatauniPid('201','1')
+
+await instance.updatePlotPlotid('3','503')
+
+await instance.updatePlotPlotid('1','501')
+
+	
+

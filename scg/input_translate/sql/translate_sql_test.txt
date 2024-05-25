@@ -1,0 +1,5 @@
+UPDATE Khatauni SET Kid = '401' WHERE KId = 101;
+UPDATE Khatauni SET Aadhar = '481' WHERE KId = 401;
+UPDATE Khatauni SET Pid = '1' WHERE KId = 201;
+UPDATE Plot SET Plotid = '503' WHERE PlotId = 3;
+UPDATE Plot SET Plotid = '501' WHERE PlotId = 2;

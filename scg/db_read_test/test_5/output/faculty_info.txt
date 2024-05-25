@@ -1,0 +1,5 @@
+Table: faculty
+  FacId - int
+  EId - int
+  PK - FacId
+  CONSTRAINT `faculty_ibfk_1` FOREIGN KEY (`EId`) REFERENCES `employee` (`EmpId`)

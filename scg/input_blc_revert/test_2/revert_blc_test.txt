@@ -1,0 +1,12 @@
+await instance.updateKhatauniKid('101', '110' )
+
+await instance.updateKhatauniAadhar('2', '182' )
+
+await instance.updateKhatauniPid('110', '3' )
+
+await instance.updatePlotPlotid('1','10')
+
+await instance.updatePlotPlotinfo('2','kl_tvc_02, comma test')
+
+	
+

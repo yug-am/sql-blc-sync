@@ -1,0 +1,1094 @@
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('1','kl_tcr_01');
+prev blc #: 0000000000000000000000000000000000000000000000000000000000000000
+curr table#: 0xf0a373099f29f8a00aa5e1dba97e7e576a407778b4dc6c8c3134e66a4132e0cd
+transformed blc: createPlotEntry('1','kl_tcr_01',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 94272}
+curr blc#: f0a373099f29f8a00aa5e1dba97e7e576a407778b4dc6c8c3134e66a4132e0cd
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('2','kl_clt_02');
+prev blc #: f0a373099f29f8a00aa5e1dba97e7e576a407778b4dc6c8c3134e66a4132e0cd
+curr table#: 0x61e879736e821ee93dd77a2c461a075bb782a3b22eafea9b6a656dd2c1d9303f
+transformed blc: createPlotEntry('2','kl_clt_02',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 188544}
+curr blc#: 61e879736e821ee93dd77a2c461a075bb782a3b22eafea9b6a656dd2c1d9303f
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('3','kl_ers_05');
+prev blc #: 61e879736e821ee93dd77a2c461a075bb782a3b22eafea9b6a656dd2c1d9303f
+curr table#: 0x4bf30107d22b75116b78f92ca5753ecae6b5c508a12c409c0befc0d99cba865a
+transformed blc: createPlotEntry('3','kl_ers_05',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 282816}
+curr blc#: 4bf30107d22b75116b78f92ca5753ecae6b5c508a12c409c0befc0d99cba865a
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('4','kl_pgt_07');
+prev blc #: 4bf30107d22b75116b78f92ca5753ecae6b5c508a12c409c0befc0d99cba865a
+curr table#: 0xe3db75bee405827b3a53285c7a1cd86e4a1edf8f5ef2455a484b1bb2b5e5f1d7
+transformed blc: createPlotEntry('4','kl_pgt_07',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 377088}
+curr blc#: e3db75bee405827b3a53285c7a1cd86e4a1edf8f5ef2455a484b1bb2b5e5f1d7
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('5','kl_tvc_08');
+prev blc #: e3db75bee405827b3a53285c7a1cd86e4a1edf8f5ef2455a484b1bb2b5e5f1d7
+curr table#: 0x5c28eb6d93fabf05a860ebed1539acd0c324bbb479219ad536f8abd3be7cb62f
+transformed blc: createPlotEntry('5','kl_tvc_08',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 471360}
+curr blc#: 5c28eb6d93fabf05a860ebed1539acd0c324bbb479219ad536f8abd3be7cb62f
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('6','dl_ndls_09');
+prev blc #: 5c28eb6d93fabf05a860ebed1539acd0c324bbb479219ad536f8abd3be7cb62f
+curr table#: 0xe6e294f30c065b423bbb87261a4c8928a8acd9b91d1bd625e9f53cbba6441e3b
+transformed blc: createPlotEntry('6','dl_ndls_09',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 565632}
+curr blc#: e6e294f30c065b423bbb87261a4c8928a8acd9b91d1bd625e9f53cbba6441e3b
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('7','dl_anvr_10');
+prev blc #: e6e294f30c065b423bbb87261a4c8928a8acd9b91d1bd625e9f53cbba6441e3b
+curr table#: 0xac024324617c1d9198742d913cf1a892e3926a4ea50d30003ea9ad552132b1ea
+transformed blc: createPlotEntry('7','dl_anvr_10',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 659904}
+curr blc#: ac024324617c1d9198742d913cf1a892e3926a4ea50d30003ea9ad552132b1ea
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('8','dl_dec_03');
+prev blc #: ac024324617c1d9198742d913cf1a892e3926a4ea50d30003ea9ad552132b1ea
+curr table#: 0x0f035b2acfc798cd50f5ebc2880af5b783bbd91b2ca6355e403e4573d939f164
+transformed blc: createPlotEntry('8','dl_dec_03',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 754176}
+curr blc#: 0f035b2acfc798cd50f5ebc2880af5b783bbd91b2ca6355e403e4573d939f164
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('9','dl_dee_04');
+prev blc #: 0f035b2acfc798cd50f5ebc2880af5b783bbd91b2ca6355e403e4573d939f164
+curr table#: 0x1bc552c05c5d1d9804178d4a1ba7f66eceda17664eefe113ea6399ea2df07d61
+transformed blc: createPlotEntry('9','dl_dee_04',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 848448}
+curr blc#: 1bc552c05c5d1d9804178d4a1ba7f66eceda17664eefe113ea6399ea2df07d61
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('10','dl_szm_05');
+prev blc #: 1bc552c05c5d1d9804178d4a1ba7f66eceda17664eefe113ea6399ea2df07d61
+curr table#: 0x0cc3ef04671f3bfcab9f82828a014860bbb70718660eb6361f45a459b13437f4
+transformed blc: createPlotEntry('10','dl_szm_05',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 942720}
+curr blc#: 0cc3ef04671f3bfcab9f82828a014860bbb70718660eb6361f45a459b13437f4
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('101','91','1');
+prev blc #: 0cc3ef04671f3bfcab9f82828a014860bbb70718660eb6361f45a459b13437f4
+curr table#: 0x7f2ed94f8c1546111d7984e9669210da906a2f631cd1253975e6ae3d96458db0
+transformed blc: createKhatauniEntry('101','91','1',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1036992}
+curr blc#: 7f2ed94f8c1546111d7984e9669210da906a2f631cd1253975e6ae3d96458db0
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('201','92','2');
+prev blc #: 7f2ed94f8c1546111d7984e9669210da906a2f631cd1253975e6ae3d96458db0
+curr table#: 0x8bda62e0064293e5d2d6eeec6e49a282bbd4b10e05466a4515589b2fccd80b7c
+transformed blc: createKhatauniEntry('201','92','2',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1131264}
+curr blc#: 8bda62e0064293e5d2d6eeec6e49a282bbd4b10e05466a4515589b2fccd80b7c
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('301','93','3');
+prev blc #: 8bda62e0064293e5d2d6eeec6e49a282bbd4b10e05466a4515589b2fccd80b7c
+curr table#: 0xe2b05dafe67fc0f77baeb3a4270976a44daba74dedcd90a02ee413fb6a786fc3
+transformed blc: createKhatauniEntry('301','93','3',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1225536}
+curr blc#: e2b05dafe67fc0f77baeb3a4270976a44daba74dedcd90a02ee413fb6a786fc3
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('401','94','4');
+prev blc #: e2b05dafe67fc0f77baeb3a4270976a44daba74dedcd90a02ee413fb6a786fc3
+curr table#: 0xf5bb405088f4c57598ebf2677b0a8e6491745116ae5e327963e9831e0a813760
+transformed blc: createKhatauniEntry('401','94','4',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1319808}
+curr blc#: f5bb405088f4c57598ebf2677b0a8e6491745116ae5e327963e9831e0a813760
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('501','95','5');
+prev blc #: f5bb405088f4c57598ebf2677b0a8e6491745116ae5e327963e9831e0a813760
+curr table#: 0x3c7979126bdfe6077af3d43aa1204b646817d61ed355c4e0457447d6ab6e7c4f
+transformed blc: createKhatauniEntry('501','95','5',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1414080}
+curr blc#: 3c7979126bdfe6077af3d43aa1204b646817d61ed355c4e0457447d6ab6e7c4f
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('601','96','6');
+prev blc #: 3c7979126bdfe6077af3d43aa1204b646817d61ed355c4e0457447d6ab6e7c4f
+curr table#: 0xa146685d8739aee1124f40cdae82562eba6cc9a849da2432c7a59b6f090fb235
+transformed blc: createKhatauniEntry('601','96','6',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1508352}
+curr blc#: a146685d8739aee1124f40cdae82562eba6cc9a849da2432c7a59b6f090fb235
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('701','97','7');
+prev blc #: a146685d8739aee1124f40cdae82562eba6cc9a849da2432c7a59b6f090fb235
+curr table#: 0x2fdeb717ef26407a5eae681fc6bba163f027dbcb323259d4db9c14a9bc1c2c15
+transformed blc: createKhatauniEntry('701','97','7',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1602624}
+curr blc#: 2fdeb717ef26407a5eae681fc6bba163f027dbcb323259d4db9c14a9bc1c2c15
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('801','98','8');
+prev blc #: 2fdeb717ef26407a5eae681fc6bba163f027dbcb323259d4db9c14a9bc1c2c15
+curr table#: 0x3933f672f4a81b6352b6da38ac66ea68dbb43138da27efebfec0947572e4907d
+transformed blc: createKhatauniEntry('801','98','8',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1696896}
+curr blc#: 3933f672f4a81b6352b6da38ac66ea68dbb43138da27efebfec0947572e4907d
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('901','99','2');
+prev blc #: 3933f672f4a81b6352b6da38ac66ea68dbb43138da27efebfec0947572e4907d
+curr table#: 0x535bfa7b49e581241132c5f23d3a0c86166b26409e1cdf6612193238979b7c12
+transformed blc: createKhatauniEntry('901','99','2',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1791168}
+curr blc#: 535bfa7b49e581241132c5f23d3a0c86166b26409e1cdf6612193238979b7c12
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('123','81','3');
+prev blc #: 535bfa7b49e581241132c5f23d3a0c86166b26409e1cdf6612193238979b7c12
+curr table#: 0xc9cc48adcda62bfe5f8bb6a262a14fa5547955864783b917aeaba487ae19d6c2
+transformed blc: createKhatauniEntry('123','81','3',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440}
+curr blc#: c9cc48adcda62bfe5f8bb6a262a14fa5547955864783b917aeaba487ae19d6c2
+hash match status: pass
+
+*************
+
+SELECT Kid FROM Khatauni WHERE Kid = '101' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Kid = '444' WHERE Kid = '101';
+prev blc #: c9cc48adcda62bfe5f8bb6a262a14fa5547955864783b917aeaba487ae19d6c2
+curr table#: 0xeb8996c41272a1a1974ef154df9d03344f150607e07344bfdb26b8e7fd678a02
+transformed blc: updateKhatauniKid('101', '444',True)
+revert func:
+prev val exp: SELECT Kid FROM Khatauni WHERE Kid = '101' LIMIT 1;
+fetched prev val: 101
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 94272}
+curr blc#: eb8996c41272a1a1974ef154df9d03344f150607e07344bfdb26b8e7fd678a02
+hash match status: pass
+
+*************
+
+SELECT Aadhar FROM Khatauni WHERE Kid = '444' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Aadhar = '481' WHERE Kid = '444';
+prev blc #: eb8996c41272a1a1974ef154df9d03344f150607e07344bfdb26b8e7fd678a02
+curr table#: 0x3ed85ee3a9d088abe16bb1b8d320114498c7f47e7a70c0fc6c4623d017163dd7
+transformed blc: updateKhatauniAadhar('444', '481',True)
+revert func:
+prev val exp: SELECT Aadhar FROM Khatauni WHERE Kid = '444' LIMIT 1;
+fetched prev val: 91
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 188544}
+curr blc#: 3ed85ee3a9d088abe16bb1b8d320114498c7f47e7a70c0fc6c4623d017163dd7
+hash match status: pass
+
+*************
+
+SELECT Pid FROM Khatauni WHERE Kid = '201' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Pid = '10' WHERE Kid = '201';
+prev blc #: 3ed85ee3a9d088abe16bb1b8d320114498c7f47e7a70c0fc6c4623d017163dd7
+curr table#: 0xc83aa76b18a4bec5beca0eb1ce7af42e12c89ca60f6b2bfe162395cf20c21fd9
+transformed blc: updateKhatauniPid('201', '10',True)
+revert func:
+prev val exp: SELECT Pid FROM Khatauni WHERE Kid = '201' LIMIT 1;
+fetched prev val: 2
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 282816}
+curr blc#: c83aa76b18a4bec5beca0eb1ce7af42e12c89ca60f6b2bfe162395cf20c21fd9
+hash match status: pass
+
+*************
+
+SELECT Kid FROM Khatauni WHERE Kid = '501' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Kid = '555' WHERE Kid = '501';
+prev blc #: c83aa76b18a4bec5beca0eb1ce7af42e12c89ca60f6b2bfe162395cf20c21fd9
+curr table#: 0xbdd167866d035fb96dd91ecfdc7d55b4e18c305404c4615d8736078c355af8d4
+transformed blc: updateKhatauniKid('501', '555',True)
+revert func:
+prev val exp: SELECT Kid FROM Khatauni WHERE Kid = '501' LIMIT 1;
+fetched prev val: 501
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 377088}
+curr blc#: bdd167866d035fb96dd91ecfdc7d55b4e18c305404c4615d8736078c355af8d4
+hash match status: pass
+
+*************
+
+SELECT Aadhar FROM Khatauni WHERE Kid = '601' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Aadhar = '88' WHERE Kid = '601';
+prev blc #: bdd167866d035fb96dd91ecfdc7d55b4e18c305404c4615d8736078c355af8d4
+curr table#: 0x50f8500635685eea3eb588052f4e379a6d377edbe73fa0724425cf2ae16fd899
+transformed blc: updateKhatauniAadhar('601', '88',True)
+revert func:
+prev val exp: SELECT Aadhar FROM Khatauni WHERE Kid = '601' LIMIT 1;
+fetched prev val: 96
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 471360}
+curr blc#: 50f8500635685eea3eb588052f4e379a6d377edbe73fa0724425cf2ae16fd899
+hash match status: pass
+
+*************
+
+SELECT Pid FROM Khatauni WHERE Kid = '301' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Pid = '9' WHERE Kid = '301';
+prev blc #: 50f8500635685eea3eb588052f4e379a6d377edbe73fa0724425cf2ae16fd899
+curr table#: 0xced7b04897e0e86093c242623a5754f20929f4b991b049a17c5a29dadebea73b
+transformed blc: updateKhatauniPid('301', '9',True)
+revert func:
+prev val exp: SELECT Pid FROM Khatauni WHERE Kid = '301' LIMIT 1;
+fetched prev val: 3
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 565632}
+curr blc#: ced7b04897e0e86093c242623a5754f20929f4b991b049a17c5a29dadebea73b
+hash match status: pass
+
+*************
+
+SELECT Kid FROM Khatauni WHERE Kid = '801' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Kid = '848' WHERE Kid = '801';
+prev blc #: ced7b04897e0e86093c242623a5754f20929f4b991b049a17c5a29dadebea73b
+curr table#: 0x1694502bda0d5230895cd812e0788508789918ff3594a6c77e3bebf400f937e0
+transformed blc: updateKhatauniKid('801', '848',True)
+revert func:
+prev val exp: SELECT Kid FROM Khatauni WHERE Kid = '801' LIMIT 1;
+fetched prev val: 801
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 659904}
+curr blc#: 1694502bda0d5230895cd812e0788508789918ff3594a6c77e3bebf400f937e0
+hash match status: pass
+
+*************
+
+SELECT Aadhar FROM Khatauni WHERE Kid = '401' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Aadhar = '49' WHERE Kid = '401';
+prev blc #: 1694502bda0d5230895cd812e0788508789918ff3594a6c77e3bebf400f937e0
+curr table#: 0x159f83e635dcfbb4d1772677482231a41461b6d0e6d647d27a909aed7fad115e
+transformed blc: updateKhatauniAadhar('401', '49',True)
+revert func:
+prev val exp: SELECT Aadhar FROM Khatauni WHERE Kid = '401' LIMIT 1;
+fetched prev val: 94
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 754176}
+curr blc#: 159f83e635dcfbb4d1772677482231a41461b6d0e6d647d27a909aed7fad115e
+hash match status: pass
+
+*************
+
+SELECT Pid FROM Khatauni WHERE Kid = '701' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Pid = '2' WHERE Kid = '701';
+prev blc #: 159f83e635dcfbb4d1772677482231a41461b6d0e6d647d27a909aed7fad115e
+curr table#: 0x5837716ce01c434a19951ea2d7ec8262ff07371dde1729c58e2ed0ba8c06c5e4
+transformed blc: updateKhatauniPid('701', '2',True)
+revert func:
+prev val exp: SELECT Pid FROM Khatauni WHERE Kid = '701' LIMIT 1;
+fetched prev val: 7
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 848448}
+curr blc#: 5837716ce01c434a19951ea2d7ec8262ff07371dde1729c58e2ed0ba8c06c5e4
+hash match status: pass
+
+*************
+
+SELECT Pid FROM Khatauni WHERE Kid = '848' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Khatauni SET Pid = '2' WHERE Kid = '848';
+prev blc #: 5837716ce01c434a19951ea2d7ec8262ff07371dde1729c58e2ed0ba8c06c5e4
+curr table#: 0x92fd89b22d09f707747b6395d27be3e3544b44ac16d2cd76e3db4571b447ddff
+transformed blc: updateKhatauniPid('848', '2',True)
+revert func:
+prev val exp: SELECT Pid FROM Khatauni WHERE Kid = '848' LIMIT 1;
+fetched prev val: 8
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 942720}
+curr blc#: 92fd89b22d09f707747b6395d27be3e3544b44ac16d2cd76e3db4571b447ddff
+hash match status: pass
+
+*************
+
+SELECT PlotInfo FROM Plot WHERE Plotid = '10' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET PlotInfo = 'changed tn_cbe_4' WHERE Plotid = '10';
+prev blc #: 92fd89b22d09f707747b6395d27be3e3544b44ac16d2cd76e3db4571b447ddff
+curr table#: 0xf52da739da1196d1e8b3a0684f29a30f2a0f7ec0827246d56e7f1fd644ed90db
+transformed blc: updatePlotPlotinfo('10', 'changed tn_cbe_4',True)
+revert func:
+prev val exp: SELECT PlotInfo FROM Plot WHERE Plotid = '10' LIMIT 1;
+fetched prev val: dl_szm_05
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1036992}
+curr blc#: f52da739da1196d1e8b3a0684f29a30f2a0f7ec0827246d56e7f1fd644ed90db
+hash match status: pass
+
+*************
+
+SELECT Plotid FROM Plot WHERE Plotid = '7' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET Plotid = '507' WHERE Plotid = '7';
+prev blc #: f52da739da1196d1e8b3a0684f29a30f2a0f7ec0827246d56e7f1fd644ed90db
+curr table#: 0x4a446116a3ef3a35071ef766616f33b8389e3b59c7d62689d02b8cddc43a1018
+transformed blc: updatePlotPlotid('7', '507',True)
+revert func:
+prev val exp: SELECT Plotid FROM Plot WHERE Plotid = '7' LIMIT 1;
+fetched prev val: 7
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1131264}
+curr blc#: 4a446116a3ef3a35071ef766616f33b8389e3b59c7d62689d02b8cddc43a1018
+hash match status: pass
+
+*************
+
+SELECT PlotInfo FROM Plot WHERE Plotid = '9' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET PlotInfo = 'tn_mas_5' WHERE Plotid = '9';
+prev blc #: 4a446116a3ef3a35071ef766616f33b8389e3b59c7d62689d02b8cddc43a1018
+curr table#: 0x7ed1fdd20753d901550cc1284c9d89f5b149ea2af0dd494b1caab2926e56dda9
+transformed blc: updatePlotPlotinfo('9', 'tn_mas_5',True)
+revert func:
+prev val exp: SELECT PlotInfo FROM Plot WHERE Plotid = '9' LIMIT 1;
+fetched prev val: dl_dee_04
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1225536}
+curr blc#: 7ed1fdd20753d901550cc1284c9d89f5b149ea2af0dd494b1caab2926e56dda9
+hash match status: pass
+
+*************
+
+SELECT Plotid FROM Plot WHERE Plotid = '8' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET Plotid = '708' WHERE Plotid = '8';
+prev blc #: 7ed1fdd20753d901550cc1284c9d89f5b149ea2af0dd494b1caab2926e56dda9
+curr table#: 0x73d9c5b0008c7dd7de3574a7f7681472ff94e7098fdf5df0876d5e4545948e06
+transformed blc: updatePlotPlotid('8', '708',True)
+revert func:
+prev val exp: SELECT Plotid FROM Plot WHERE Plotid = '8' LIMIT 1;
+fetched prev val: 8
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1319808}
+curr blc#: 73d9c5b0008c7dd7de3574a7f7681472ff94e7098fdf5df0876d5e4545948e06
+hash match status: pass
+
+*************
+
+SELECT PlotInfo FROM Plot WHERE Plotid = '1' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET PlotInfo = 'pb_asr_8' WHERE Plotid = '1';
+prev blc #: 73d9c5b0008c7dd7de3574a7f7681472ff94e7098fdf5df0876d5e4545948e06
+curr table#: 0xec2c6cb9e2166d4ef6fd6ce576a8c3e830039aebf75ff0a5305752755827668e
+transformed blc: updatePlotPlotinfo('1', 'pb_asr_8',True)
+revert func:
+prev val exp: SELECT PlotInfo FROM Plot WHERE Plotid = '1' LIMIT 1;
+fetched prev val: kl_tcr_01
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1414080}
+curr blc#: ec2c6cb9e2166d4ef6fd6ce576a8c3e830039aebf75ff0a5305752755827668e
+hash match status: pass
+
+*************
+
+SELECT Plotid FROM Plot WHERE Plotid = '507' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET Plotid = '777' WHERE Plotid = '507';
+prev blc #: ec2c6cb9e2166d4ef6fd6ce576a8c3e830039aebf75ff0a5305752755827668e
+curr table#: 0xa718a58310ed7c35e8bff41cd3fea38194d5002510f1d078b3865d9540fd1950
+transformed blc: updatePlotPlotid('507', '777',True)
+revert func:
+prev val exp: SELECT Plotid FROM Plot WHERE Plotid = '507' LIMIT 1;
+fetched prev val: 507
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1508352}
+curr blc#: a718a58310ed7c35e8bff41cd3fea38194d5002510f1d078b3865d9540fd1950
+hash match status: pass
+
+*************
+
+SELECT PlotInfo FROM Plot WHERE Plotid = '3' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET PlotInfo = 'kr_sbc_9' WHERE Plotid = '3';
+prev blc #: a718a58310ed7c35e8bff41cd3fea38194d5002510f1d078b3865d9540fd1950
+curr table#: 0x99cfe10e350e9c3c564839a49e41da37622a4a1958e47606eea7b920bf3c6611
+transformed blc: updatePlotPlotinfo('3', 'kr_sbc_9',True)
+revert func:
+prev val exp: SELECT PlotInfo FROM Plot WHERE Plotid = '3' LIMIT 1;
+fetched prev val: kl_ers_05
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1602624}
+curr blc#: 99cfe10e350e9c3c564839a49e41da37622a4a1958e47606eea7b920bf3c6611
+hash match status: pass
+
+*************
+
+SELECT Plotid FROM Plot WHERE Plotid = '777' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET Plotid = '117' WHERE Plotid = '777';
+prev blc #: 99cfe10e350e9c3c564839a49e41da37622a4a1958e47606eea7b920bf3c6611
+curr table#: 0x51fcb91500449df2834f14d360ce56d442a5b71643fff7a6790b0c76ba5bf1b3
+transformed blc: updatePlotPlotid('777', '117',True)
+revert func:
+prev val exp: SELECT Plotid FROM Plot WHERE Plotid = '777' LIMIT 1;
+fetched prev val: 777
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1696896}
+curr blc#: 51fcb91500449df2834f14d360ce56d442a5b71643fff7a6790b0c76ba5bf1b3
+hash match status: pass
+
+*************
+
+SELECT PlotInfo FROM Plot WHERE Plotid = '5' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET PlotInfo = 'kr_mys_1' WHERE Plotid = '5';
+prev blc #: 51fcb91500449df2834f14d360ce56d442a5b71643fff7a6790b0c76ba5bf1b3
+curr table#: 0x91c255888745df6e79fd3c7eb49c91ed87c294c359ebd33361138d623bf7a012
+transformed blc: updatePlotPlotinfo('5', 'kr_mys_1',True)
+revert func:
+prev val exp: SELECT PlotInfo FROM Plot WHERE Plotid = '5' LIMIT 1;
+fetched prev val: kl_tvc_08
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1791168}
+curr blc#: 91c255888745df6e79fd3c7eb49c91ed87c294c359ebd33361138d623bf7a012
+hash match status: pass
+
+*************
+
+SELECT Plotid FROM Plot WHERE Plotid = '708' LIMIT 1;
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+UPDATE Plot SET Plotid = '18' WHERE Plotid = '708';
+prev blc #: 91c255888745df6e79fd3c7eb49c91ed87c294c359ebd33361138d623bf7a012
+curr table#: 0x230935cdc1102a30acf95fc3eb2457733242bf673a0c355bb81d956ba112db7f
+transformed blc: updatePlotPlotid('708', '18',True)
+revert func:
+prev val exp: SELECT Plotid FROM Plot WHERE Plotid = '708' LIMIT 1;
+fetched prev val: 708
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440}
+curr blc#: 230935cdc1102a30acf95fc3eb2457733242bf673a0c355bb81d956ba112db7f
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '117';
+prev blc #: 230935cdc1102a30acf95fc3eb2457733242bf673a0c355bb81d956ba112db7f
+curr table#: 0xcc265f9149069a1fe78f666499611eb53c4169c7e180ce189a79d0351742a988
+transformed blc: deletePlotRecord('117',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 94272}
+curr blc#: cc265f9149069a1fe78f666499611eb53c4169c7e180ce189a79d0351742a988
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '444';
+prev blc #: cc265f9149069a1fe78f666499611eb53c4169c7e180ce189a79d0351742a988
+curr table#: 0x8ddc0e68f68fcc3b7436b4c96d555e1042c046cf062021a34608fd6d2745e516
+transformed blc: deleteKhatauniRecord('444',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 188544}
+curr blc#: 8ddc0e68f68fcc3b7436b4c96d555e1042c046cf062021a34608fd6d2745e516
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '1';
+prev blc #: 8ddc0e68f68fcc3b7436b4c96d555e1042c046cf062021a34608fd6d2745e516
+curr table#: 0xce4fa2157429d19d22948d339a73d07d7d9c9dc9d8c9cfdd343600ff18be9f1e
+transformed blc: deletePlotRecord('1',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 282816}
+curr blc#: ce4fa2157429d19d22948d339a73d07d7d9c9dc9d8c9cfdd343600ff18be9f1e
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '201';
+prev blc #: ce4fa2157429d19d22948d339a73d07d7d9c9dc9d8c9cfdd343600ff18be9f1e
+curr table#: 0xb6543c7ceb506eae3af35c5bbbfc69296e052cb61667d82ec8edb4523e025f98
+transformed blc: deleteKhatauniRecord('201',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 377088}
+curr blc#: b6543c7ceb506eae3af35c5bbbfc69296e052cb61667d82ec8edb4523e025f98
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '301';
+prev blc #: b6543c7ceb506eae3af35c5bbbfc69296e052cb61667d82ec8edb4523e025f98
+curr table#: 0xb6b77ca6f6383c390d9a8e5bae1cdf334b83c893a71859386acaf8a6836c9dad
+transformed blc: deleteKhatauniRecord('301',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 471360}
+curr blc#: b6b77ca6f6383c390d9a8e5bae1cdf334b83c893a71859386acaf8a6836c9dad
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '9';
+prev blc #: b6b77ca6f6383c390d9a8e5bae1cdf334b83c893a71859386acaf8a6836c9dad
+curr table#: 0x07bcb4bea807093821af342ba4f221ce47dba39ed7503c665d2ecf9980ed6f61
+transformed blc: deletePlotRecord('9',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 565632}
+curr blc#: 07bcb4bea807093821af342ba4f221ce47dba39ed7503c665d2ecf9980ed6f61
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '10';
+prev blc #: 07bcb4bea807093821af342ba4f221ce47dba39ed7503c665d2ecf9980ed6f61
+curr table#: 0x7f100912a2ad309fcba126bb3b54eb844106c64d75658108f121be23587e411d
+transformed blc: deletePlotRecord('10',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 659904}
+curr blc#: 7f100912a2ad309fcba126bb3b54eb844106c64d75658108f121be23587e411d
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '401';
+prev blc #: 7f100912a2ad309fcba126bb3b54eb844106c64d75658108f121be23587e411d
+curr table#: 0x636497a5e31acaab197d9dbc73c9a463567d99d75f92f5fe1705fa5cec05d06d
+transformed blc: deleteKhatauniRecord('401',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 754176}
+curr blc#: 636497a5e31acaab197d9dbc73c9a463567d99d75f92f5fe1705fa5cec05d06d
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '555';
+prev blc #: 636497a5e31acaab197d9dbc73c9a463567d99d75f92f5fe1705fa5cec05d06d
+curr table#: 0xd2c5a0bc89273921d7c16cedd22c60af656b40dd73dceaa4abcac37eaa88a6ef
+transformed blc: deleteKhatauniRecord('555',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 848448}
+curr blc#: d2c5a0bc89273921d7c16cedd22c60af656b40dd73dceaa4abcac37eaa88a6ef
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '601';
+prev blc #: d2c5a0bc89273921d7c16cedd22c60af656b40dd73dceaa4abcac37eaa88a6ef
+curr table#: 0xed3c6527ca2befee47c8100aa0ed43ace6a406e041c812aedc849785c06d8409
+transformed blc: deleteKhatauniRecord('601',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 942720}
+curr blc#: ed3c6527ca2befee47c8100aa0ed43ace6a406e041c812aedc849785c06d8409
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '123';
+prev blc #: ed3c6527ca2befee47c8100aa0ed43ace6a406e041c812aedc849785c06d8409
+curr table#: 0x2a8fd07bc6404a1c5d5955fe990e0b290e45d70fd7439960b2bcc130360259be
+transformed blc: deleteKhatauniRecord('123',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1036992}
+curr blc#: 2a8fd07bc6404a1c5d5955fe990e0b290e45d70fd7439960b2bcc130360259be
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '18';
+prev blc #: 2a8fd07bc6404a1c5d5955fe990e0b290e45d70fd7439960b2bcc130360259be
+curr table#: 0xdf7d406a6025a02d062a0d8fadaab276adc0dd37c74f08f8a519684532b1dbb0
+transformed blc: deletePlotRecord('18',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1131264}
+curr blc#: df7d406a6025a02d062a0d8fadaab276adc0dd37c74f08f8a519684532b1dbb0
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '6';
+prev blc #: df7d406a6025a02d062a0d8fadaab276adc0dd37c74f08f8a519684532b1dbb0
+curr table#: 0xe41da04d3b9268195eb37705e56220698c6ec5152200ffadab5af0623ecc3408
+transformed blc: deletePlotRecord('6',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1225536}
+curr blc#: e41da04d3b9268195eb37705e56220698c6ec5152200ffadab5af0623ecc3408
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '5';
+prev blc #: e41da04d3b9268195eb37705e56220698c6ec5152200ffadab5af0623ecc3408
+curr table#: 0xedd4330640d2d28caddb7bd962d56ebd2fb28b9317a89c80d4324fb80622d561
+transformed blc: deletePlotRecord('5',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1319808}
+curr blc#: edd4330640d2d28caddb7bd962d56ebd2fb28b9317a89c80d4324fb80622d561
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '4';
+prev blc #: edd4330640d2d28caddb7bd962d56ebd2fb28b9317a89c80d4324fb80622d561
+curr table#: 0xaf1273109922eed4721fe4f9ad178a2d75b248c4adc3ec14c24a506d80afb0fe
+transformed blc: deletePlotRecord('4',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1414080}
+curr blc#: af1273109922eed4721fe4f9ad178a2d75b248c4adc3ec14c24a506d80afb0fe
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '3';
+prev blc #: af1273109922eed4721fe4f9ad178a2d75b248c4adc3ec14c24a506d80afb0fe
+curr table#: 0x38899cc7a737041140ff457a2cd49f73c479a48ba24438f33032679106192008
+transformed blc: deletePlotRecord('3',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1508352}
+curr blc#: 38899cc7a737041140ff457a2cd49f73c479a48ba24438f33032679106192008
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '701';
+prev blc #: 38899cc7a737041140ff457a2cd49f73c479a48ba24438f33032679106192008
+curr table#: 0xf7e715d174d0777a2fac38b16be94c3af0748d3d1cac9f5c64855580f25601e4
+transformed blc: deleteKhatauniRecord('701',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1602624}
+curr blc#: f7e715d174d0777a2fac38b16be94c3af0748d3d1cac9f5c64855580f25601e4
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '848';
+prev blc #: f7e715d174d0777a2fac38b16be94c3af0748d3d1cac9f5c64855580f25601e4
+curr table#: 0x2e70c04553f9118cac5e9c2683a250ea2488b43919c66477939f308596063057
+transformed blc: deleteKhatauniRecord('848',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1696896}
+curr blc#: 2e70c04553f9118cac5e9c2683a250ea2488b43919c66477939f308596063057
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Khatauni WHERE KId = '901';
+prev blc #: 2e70c04553f9118cac5e9c2683a250ea2488b43919c66477939f308596063057
+curr table#: 0x7cd18acac3584cc18e3e9a0bf3edb79b39057afb17abf095638abe49c5c23667
+transformed blc: deleteKhatauniRecord('901',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1791168}
+curr blc#: 7cd18acac3584cc18e3e9a0bf3edb79b39057afb17abf095638abe49c5c23667
+hash match status: pass
+
+*************
+
+Gas used in Hash: 23568
+Initial #check passed
+Gas used in Hash: 23568
+DELETE FROM Plot WHERE PlotId = '2';
+prev blc #: 7cd18acac3584cc18e3e9a0bf3edb79b39057afb17abf095638abe49c5c23667
+curr table#: 0xd662e7b3c36e83dd413ed9d3f6eb6e861c57d05c15ac81f6b1c1340419567822
+transformed blc: deletePlotRecord('2',True)
+revert func:
+Gas used in Operation: 23568
+Gas used in Hash: 23568
+Total gas: 94272
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1885440}
+curr blc#: d662e7b3c36e83dd413ed9d3f6eb6e861c57d05c15ac81f6b1c1340419567822
+hash match status: pass
+
+*************
+
+-*--*--*--*--*-
+{'INSERT': 20, 'UPDATE': 20, 'DELETE': 20}
+{'INSERT': 1885440, 'UPDATE': 1885440, 'DELETE': 1885440}
+INSERT: 94272.0
+block_size: 30000000, block_time: 5
+INSERT per sec: 63.0
+UPDATE: 94272.0
+block_size: 30000000, block_time: 5
+UPDATE per sec: 63.0
+DELETE: 94272.0
+block_size: 30000000, block_time: 5
+DELETE per sec: 63.0
+

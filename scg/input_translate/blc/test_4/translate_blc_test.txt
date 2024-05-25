@@ -1,0 +1,15 @@
+await instance.createEmployeeEntry(305, 15)
+
+await instance.createEmployeeEntry(315, 75)
+
+await instance.createFacultyEntry(1, 305)
+
+await instance.updateFacultyEid(1, 315)
+
+await instance.updateFacultyFacid(1, 10)
+
+await instance.deleteEmployeeRecord(305)
+
+await instance.deleteFacultyRecord(10)
+
+await instance.deleteEmployeeRecord(315)

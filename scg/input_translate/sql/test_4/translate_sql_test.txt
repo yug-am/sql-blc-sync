@@ -1,0 +1,33 @@
+INSERT INTO Employee (EmpId,  Aadhar) VALUES (305, 15);
+
+INSERT INTO Employee (EmpId,  Aadhar) VALUES (310, 20);
+
+INSERT INTO Employee (EmpId,  Aadhar) VALUES (315, 30);
+
+INSERT INTO Employee (EmpId,  Aadhar) VALUES (320, 50);
+
+INSERT INTO Faculty (FacId,  EId) VALUES (1, 305);
+
+INSERT INTO Faculty (FacId,  EId) VALUES (2, 310);
+
+INSERT INTO Faculty (FacId,  EId) VALUES (4, 320);
+
+UPDATE Faculty SET FacId = 10 WHERE FacId = 1;
+
+UPDATE Faculty SET EId = 510 WHERE FacId = 1;
+
+UPDATE Faculty SET EId = 350 WHERE FacId = 10;
+
+UPDATE Employee SET Aadhar = 47 WHERE EmpId = 20;
+
+UPDATE Employee SET EmpId = 54 WHERE EmpId = 30;
+
+
+DELETE FROM Employee WHERE EmpId = 315;
+
+DELETE FROM Employee WHERE EmpId = 305;
+
+DELETE FROM Faculty WHERE FacId = 1;
+
+DELETE FROM Employee WHERE EmpId = 305;
+

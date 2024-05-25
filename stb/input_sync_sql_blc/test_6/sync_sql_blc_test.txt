@@ -1,0 +1,16 @@
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('1','kl_clt_01');
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('2','kl_tvc_02');
+INSERT INTO Plot (PlotId, PlotInfo) VALUES ('3','dl_del_03');
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('101','81','1');
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUES ('201','82','2');
+UPDATE Khatauni SET Kid = '401' WHERE Kid = '101';
+UPDATE Khatauni SET Aadhar = '481' WHERE Kid = '401';
+UPDATE Khatauni SET Pid = '1' WHERE Kid = '201';
+UPDATE Plot SET PlotInfo = 'changed info' WHERE Plotid = '3';
+UPDATE Plot SET Plotid = '503' WHERE Plotid = '3';
+UPDATE Plot SET Plotid = '502' WHERE Plotid = '2';
+DELETE FROM Plot WHERE PlotId = '502';
+DELETE FROM Plot WHERE PlotId = '503';
+DELETE FROM Khatauni WHERE KId = '401';
+DELETE FROM Khatauni WHERE KId = '201';
+DELETE FROM Plot WHERE PlotId = '1';

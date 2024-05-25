@@ -1,0 +1,4 @@
+Table: plot
+  PlotId - varchar(255)
+  PlotInfo - varchar(255)
+  PK - PlotId

@@ -1,0 +1,11 @@
+await instance.createFacultyEntry(1, 'Dr. Vinod P', true)
+
+await instance.createFacultyEntry(2, 'Dr. Madhu S D', false)
+
+await instance.createFacultyEntry(3, 'Dr. Subhasree M', true)
+
+await instance.createLabEntry(101, 'DBMS Lab', 1)
+
+await instance.createLabEntry(102, 'SSL Lab', 2)
+
+await instance.createLabEntry(103, 'DSA Lab', 2)

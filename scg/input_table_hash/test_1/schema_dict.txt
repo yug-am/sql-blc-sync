@@ -1,0 +1,1 @@
+{"khatauni": {"table_name": "khatauni", "columns": [], "col": [["KId", "varchar(255)"], ["Aadhar", "varchar(255)"], ["PId", "varchar(255)"]], "for_key_dep_on": ["PId -> plot.PlotId"], "pk": "KId"}, "plot": {"table_name": "plot", "columns": [], "col": [["PlotId", "varchar(255)"], ["PlotInfo", "varchar(255)"]], "for_key_dep_on": [], "pk": "PlotId"}}

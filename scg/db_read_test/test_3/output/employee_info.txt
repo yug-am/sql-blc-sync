@@ -1,0 +1,4 @@
+Table: employee
+  EmpId - int
+  Aadhar - int
+  PK - EmpId

@@ -1,0 +1,7 @@
+INSERT INTO faculty (Facid, Eid) VALUES (1, 'Dr. Vinod P', TRUE);
+INSERT INTO faculty (FacId, FacName, CSDept) VALUES (2, 'Dr. Madhu S D', FALSE);
+INSERT INTO faculty (FacId, FacName, CSDept) VALUES (3, 'Dr. Subhasree M', TRUE);
+INSERT INTO lab (LabID , LabName, InchargeId) VALUES (101, 'DSA Lab', 1);
+INSERT INTO lab (LabID , LabName, InchargeId) VALUES (102, 'Cloud Lab',2 );
+INSERT INTO lab (LabID , LabName, InchargeId) VALUES (103, 'Network Lab', 3);
+

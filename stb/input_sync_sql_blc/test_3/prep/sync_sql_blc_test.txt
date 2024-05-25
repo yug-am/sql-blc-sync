@@ -1,0 +1,7 @@
+INSERT INTO Plot (PlotId,  PlotInfo) VALUE('1','kl_clt_01');
+INSERT INTO Plot (PlotId, PlotInfo) VALUE('2','kl_tvc_02');
+INSERT INTO Plot (PlotId, PlotInfo) VALUE('3','dl_del_03');
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUE('101','81','1');
+INSERT INTO Khatauni (KId, Aadhar, PId) VALUE('201','82','2');  
+DELETE FROM Khatauni WHERE KId = '101';
+DELETE FROM Khatauni WHERE KId = '201';

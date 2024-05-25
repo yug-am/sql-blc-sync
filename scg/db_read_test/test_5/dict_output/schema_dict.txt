@@ -1,0 +1,1 @@
+{"employee": {"table_name": "employee", "columns": [], "col": [["EmpId", "int"], ["Aadhar", "int"]], "for_key_dep_on": [], "pk": "EmpId"}, "faculty": {"table_name": "faculty", "columns": [], "col": [["FacId", "int"], ["EId", "int"]], "for_key_dep_on": ["EId -> employee.EmpId"], "pk": "FacId"}}

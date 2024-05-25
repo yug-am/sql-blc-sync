@@ -1,0 +1,6 @@
+Table: lab
+  LabID - int
+  LabName - varchar(255)
+  InchargeId - int
+  PK - LabID
+  CONSTRAINT `lab_ibfk_1` FOREIGN KEY (`InchargeId`) REFERENCES `faculty` (`FacId`)

@@ -1,0 +1,7 @@
+Table: faculty
+  FacId - int
+  FacName - varchar(255)
+  EId - int
+  CSDept - tinyint(1)
+  PK - FacId
+  CONSTRAINT `faculty_ibfk_1` FOREIGN KEY (`EId`) REFERENCES `employee` (`EmpId`)
