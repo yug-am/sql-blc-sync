@@ -54,7 +54,7 @@ The current version only works with string data type because the web3 encoding l
 
 ## Test
 
-The Framework is tested with [Truffule](https://trufflesuite.com/) and [mySQL](https://www.mysql.com/).
+The Framework is tested with [Truffle](https://trufflesuite.com/) and [mySQL](https://www.mysql.com/).
 
 <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" width="200">
 
