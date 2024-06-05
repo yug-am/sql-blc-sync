@@ -34,8 +34,9 @@ Git clone this project and directly run from terminal
 - Python
 - MySQL Connector Python library [link](https://dev.mysql.com/doc/connector-python/en/)
 - Web3 Python library [link](https://web3py.readthedocs.io/en/stable/)
-    
 
+use `requirements.txt` file to install all the dependencies    
+using ```pip install -r requirements.txt ```
 ## Usage
 
 - Configure chain and mySQL configurations in programs and run by navigating to main files in relevant sub module folders
@@ -48,8 +49,8 @@ Git clone this project and directly run from terminal
 
 In the case of SCG first configure and run schema_extract then run smart_contract_baker to get the solidity code with RDBMS constraints.
 Other modules can be run directly with the respective main file as specified in the Module file table. 
-Also, for bootstrap testing, the modules read SQL commands or Blockchain smart contract calls from the Configuration  file(refer usage table) in `./input_sync_sql_blc` after configuring schema info text file `schema_dict.txt` that can be generated from SCG module's schema_extract function and is available as `./dict_output/schema_dict.txt`.
-Current version only works with string data type because web3 encoding library output is not the same as EVM output.
+Also, for bootstrap testing, the modules read SQL commands or Blockchain smart contract calls from the configuration  file(refer to usage table) in `./input_sync_sql_blc` after configuring schema info text file `schema_dict.txt` that can be generated from SCG module's schema_extract function and is available as `./dict_output/schema_dict.txt`.
+The current version only works with string data type because the web3 encoding library output is different from the EVM output.
 
 ## Test
 
