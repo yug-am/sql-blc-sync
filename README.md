@@ -40,7 +40,7 @@ Git clone this project and directly run from terminal
 
 - Configure chain and mySQL configurations in programs and run by navigating to main files in relevant sub module folders
   
-| Module                   | Main python file           | Configuration  file |
+| Module                   | Main python file           | Configuration  file(in `./input_sync_sql_blc/`) |
 |------------------------------- |----------------------|------------------|
 | Smart Contract Generator (SCG) | smart_contract_baker |schema_extract    |            
 | Blockchain To SQL (BTS)        | sync_live_sql_blc    |sync_live_sql_blc |
@@ -48,8 +48,8 @@ Git clone this project and directly run from terminal
 
 In the case of SCG first configure and run schema_extract then run smart_contract_baker to get the solidity code with RDBMS constraints.
 Other modules can be run directly with the respective main file as specified in the Module file table. 
-Also, for bootstrap testing, the modules read SQL commands or Blockchain smart contract calls from a text file in `./input_sync_sql_blc`.
-Only works with string data type because web3 encoding library output is not the same as EVM output.
+Also, for bootstrap testing, the modules read SQL commands or Blockchain smart contract calls from the Configuration  file(refer usage table) in `./input_sync_sql_blc` after configuring schema info text file `schema_dict.txt` that can be generated from SCG module's schema_extract function and is available as `./dict_output/schema_dict.txt`.
+Current version only works with string data type because web3 encoding library output is not the same as EVM output.
 
 ## Test
 
